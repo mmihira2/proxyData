@@ -58,3 +58,4 @@
 2015-12-12 04:04:38, - Detected - Count : ,57
 2015-12-12 04:05:11, - Detected - Count : ,58
 2015-12-12 04:05:19, - Detected - Count : ,59
+2015-12-12 10:39:56, - Detected - Count : ,60
