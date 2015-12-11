@@ -10,3 +10,4 @@
 2015-12-11 13:24:24, - Detected - Count : ,9
 2015-12-11 13:24:38, - Detected - Count : ,10
 2015-12-11 13:24:44, - Detected - Count : ,11
+2015-12-11 13:52:00, - Detected - Count : ,12
