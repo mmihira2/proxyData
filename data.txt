@@ -68,3 +68,4 @@
 2015-12-12 11:33:40, - Detected - Count : ,67
 2015-12-12 12:22:24, - Detected - Count : ,68
 2015-12-12 12:40:46, - Detected - Count : ,69
+2015-12-12 12:40:57, - Detected - Count : ,70
